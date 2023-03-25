@@ -8,6 +8,6 @@ Boston House Pricing Prediction
  4. Flask
 
 Create a new environment
-conda create -p venv python==3.7 -y
+conda create -p venv python==3.10 -y
 conda activate D:\Git\BostonHousePricing\venv
 conda deactivate
